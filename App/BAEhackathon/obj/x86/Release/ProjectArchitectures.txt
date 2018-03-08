@@ -1,0 +1,4 @@
+C:\Unity Projects\BAEhackathon\App\BAEhackathon\BAEhackathon.csproj;x86
+C:\Unity Projects\BAEhackathon\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Unity Projects\BAEhackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Unity Projects\BAEhackathon\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
